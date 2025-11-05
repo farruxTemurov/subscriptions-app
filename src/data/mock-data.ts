@@ -15,4 +15,12 @@ export const mockSubscriptions = [
         currency: 'USD',
         nextPaymentDate: '2026-08-01T10:00:00Z',
     },
+     {
+        id: 'S67891',
+        offerTitle: 'Pro Monthly',
+        status: 'active',
+        price: 39.89,
+        currency: 'USD',
+        nextPaymentDate: '2026-01-01T10:00:00Z',
+    },
 ];
